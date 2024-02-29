@@ -1,0 +1,1 @@
+export const SERVER_URL="https://media-player-dfjr.onrender.com"
